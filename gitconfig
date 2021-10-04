@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = darnat.amelie@gmail.com
+	name = amelie darnat
